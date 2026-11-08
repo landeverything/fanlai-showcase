@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+<rect width="1000" height="1000" fill="#f3f0e9"/>
+<defs><pattern id="blocks" width="170" height="155" patternUnits="userSpaceOnUse" patternTransform="rotate(-12)"><rect x="12" y="10" width="140" height="125" rx="15" fill="#e6e2dc"/><rect x="24" y="22" width="116" height="100" rx="9" fill="#eee9e4"/><path d="M0 0H170 M0 0V155" stroke="#fffdf9" stroke-width="12"/></pattern></defs>
+<rect width="1000" height="1000" fill="url(#blocks)"/>
+<path d="M700-40C620 230 910 250 785 475S620 720 790 1050" stroke="#c4e1e9" stroke-width="115" fill="none"/>
+<path d="M700-40C620 230 910 250 785 475S620 720 790 1050" stroke="#b6d8e2" stroke-width="72" fill="none"/>
+<rect x="220" y="310" width="230" height="190" rx="45" fill="#d4e6ca" transform="rotate(-12 340 405)"/>
+<path d="M242 350L390 443 M280 322L427 415" stroke="#eaf2df" stroke-width="10"/>
+<path d="M-30 590L1050 360 M330-30L590 1050" stroke="#e3cfac" stroke-width="27" fill="none"/>
+<path d="M-30 590L1050 360 M330-30L590 1050" stroke="#fff7e8" stroke-width="19" fill="none"/>
+<g fill="#bdceb3"><circle cx="250" cy="392" r="12"/><circle cx="300" cy="357" r="15"/><circle cx="366" cy="410" r="14"/><circle cx="402" cy="364" r="13"/></g>
+</svg>

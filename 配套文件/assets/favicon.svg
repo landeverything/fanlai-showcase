@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>饭来 · 碰头饭团</title>
+  <defs>
+    <linearGradient id="coral" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FF936F"/>
+      <stop offset="1" stop-color="#FF735F"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#coral)" d="M0 0h512v512H0z"/>
+  <!-- Two rice-ball friends share one bowl. Broad shapes stay clear on a home screen. -->
+  <g transform="rotate(12 329 238)">
+    <path fill="#D3EF79" d="M329 139c48 0 76 49 96 94 23 53 10 88-44 88H270c-47 0-58-35-40-78 22-54 47-104 99-104Z"/>
+    <path d="M362 235v17" stroke="#273AAF" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <g transform="rotate(-10 207 226)">
+    <path fill="#FFFCED" d="M206 108c52 0 81 55 107 113 27 62 10 98-49 98H141c-56 0-74-32-49-87 29-65 60-124 114-124Z"/>
+    <path d="M163 217v17m80-17v17" stroke="#273AAF" stroke-width="17" stroke-linecap="round"/>
+    <path d="M174 263q29 29 59 0" fill="none" stroke="#273AAF" stroke-width="15" stroke-linecap="round"/>
+  </g>
+  <path d="M87 300h338c-9 70-56 119-126 127h-86C143 419 96 370 87 300Z" fill="#273AAF"/>
+  <path d="M82 300q174 24 348 0" fill="none" stroke="#273AAF" stroke-width="24" stroke-linecap="round"/>
+  <path d="M112 319q144 18 288 0" fill="none" stroke="#FFFCED" stroke-width="9" stroke-linecap="round"/>
+  <rect x="208" y="422" width="96" height="16" rx="8" fill="#273AAF"/>
+  <path d="m251 350 7 16 17 6-17 7-7 17-6-17-17-7 17-6Z" fill="#FFFCED"/>
+  <!-- A little spark of a new plan. -->
+  <path d="m378 64 8 23 24 8-24 9-8 23-9-23-23-9 23-8Z" fill="#273AAF"/>
+  <path d="m103 131-14-15m43-14-2-20" stroke="#273AAF" stroke-width="12" stroke-linecap="round"/>
+</svg>
